@@ -14,12 +14,12 @@
 		EE74573A1CFC31E0005AABB3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE7457391CFC31E0005AABB3 /* Assets.xcassets */; };
 		EE74573D1CFC31E0005AABB3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE74573B1CFC31E0005AABB3 /* LaunchScreen.storyboard */; };
 		EE7457461CFC3664005AABB3 /* LPIndexSectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = EE7457451CFC3664005AABB3 /* LPIndexSectionView.m */; };
-		EE74574D1CFC3825005AABB3 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EE7457471CFC3825005AABB3 /* 1.jpg */; };
-		EE74574E1CFC3825005AABB3 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EE7457481CFC3825005AABB3 /* 2.jpg */; };
-		EE74574F1CFC3825005AABB3 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EE7457491CFC3825005AABB3 /* 3.jpg */; };
-		EE7457501CFC3825005AABB3 /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EE74574A1CFC3825005AABB3 /* 4.jpg */; };
-		EE7457511CFC3825005AABB3 /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EE74574B1CFC3825005AABB3 /* 5.jpg */; };
-		EE7457521CFC3825005AABB3 /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EE74574C1CFC3825005AABB3 /* 6.jpg */; };
+		EE74575A1CFC4611005AABB3 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EE7457541CFC4611005AABB3 /* 1.jpg */; };
+		EE74575B1CFC4611005AABB3 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EE7457551CFC4611005AABB3 /* 2.jpg */; };
+		EE74575C1CFC4611005AABB3 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EE7457561CFC4611005AABB3 /* 3.jpg */; };
+		EE74575D1CFC4611005AABB3 /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EE7457571CFC4611005AABB3 /* 4.jpg */; };
+		EE74575E1CFC4611005AABB3 /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EE7457581CFC4611005AABB3 /* 5.jpg */; };
+		EE74575F1CFC4611005AABB3 /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EE7457591CFC4611005AABB3 /* 6.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,12 +35,12 @@
 		EE74573E1CFC31E0005AABB3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EE7457441CFC3664005AABB3 /* LPIndexSectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LPIndexSectionView.h; sourceTree = "<group>"; };
 		EE7457451CFC3664005AABB3 /* LPIndexSectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LPIndexSectionView.m; sourceTree = "<group>"; };
-		EE7457471CFC3825005AABB3 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
-		EE7457481CFC3825005AABB3 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
-		EE7457491CFC3825005AABB3 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
-		EE74574A1CFC3825005AABB3 /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
-		EE74574B1CFC3825005AABB3 /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
-		EE74574C1CFC3825005AABB3 /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpg; sourceTree = "<group>"; };
+		EE7457541CFC4611005AABB3 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		EE7457551CFC4611005AABB3 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		EE7457561CFC4611005AABB3 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		EE7457571CFC4611005AABB3 /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		EE7457581CFC4611005AABB3 /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
+		EE7457591CFC4611005AABB3 /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +57,7 @@
 		EE7457211CFC31DF005AABB3 = {
 			isa = PBXGroup;
 			children = (
+				EE7457531CFC45D1005AABB3 /* images */,
 				EE74572C1CFC31E0005AABB3 /* LPCustomTableViewSectionIndexView */,
 				EE74572B1CFC31E0005AABB3 /* Products */,
 			);
@@ -83,12 +84,6 @@
 				EE7457391CFC31E0005AABB3 /* Assets.xcassets */,
 				EE74573B1CFC31E0005AABB3 /* LaunchScreen.storyboard */,
 				EE74573E1CFC31E0005AABB3 /* Info.plist */,
-				EE7457471CFC3825005AABB3 /* 1.jpg */,
-				EE7457481CFC3825005AABB3 /* 2.jpg */,
-				EE7457491CFC3825005AABB3 /* 3.jpg */,
-				EE74574A1CFC3825005AABB3 /* 4.jpg */,
-				EE74574B1CFC3825005AABB3 /* 5.jpg */,
-				EE74574C1CFC3825005AABB3 /* 6.jpg */,
 				EE74572D1CFC31E0005AABB3 /* Supporting Files */,
 			);
 			path = LPCustomTableViewSectionIndexView;
@@ -100,6 +95,19 @@
 				EE74572E1CFC31E0005AABB3 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		EE7457531CFC45D1005AABB3 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				EE7457541CFC4611005AABB3 /* 1.jpg */,
+				EE7457551CFC4611005AABB3 /* 2.jpg */,
+				EE7457561CFC4611005AABB3 /* 3.jpg */,
+				EE7457571CFC4611005AABB3 /* 4.jpg */,
+				EE7457581CFC4611005AABB3 /* 5.jpg */,
+				EE7457591CFC4611005AABB3 /* 6.jpg */,
+			);
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -159,13 +167,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EE7457521CFC3825005AABB3 /* 6.jpg in Resources */,
+				EE74575F1CFC4611005AABB3 /* 6.jpg in Resources */,
 				EE74573D1CFC31E0005AABB3 /* LaunchScreen.storyboard in Resources */,
-				EE7457511CFC3825005AABB3 /* 5.jpg in Resources */,
-				EE7457501CFC3825005AABB3 /* 4.jpg in Resources */,
-				EE74574D1CFC3825005AABB3 /* 1.jpg in Resources */,
-				EE74574E1CFC3825005AABB3 /* 2.jpg in Resources */,
-				EE74574F1CFC3825005AABB3 /* 3.jpg in Resources */,
+				EE74575E1CFC4611005AABB3 /* 5.jpg in Resources */,
+				EE74575D1CFC4611005AABB3 /* 4.jpg in Resources */,
+				EE74575A1CFC4611005AABB3 /* 1.jpg in Resources */,
+				EE74575B1CFC4611005AABB3 /* 2.jpg in Resources */,
+				EE74575C1CFC4611005AABB3 /* 3.jpg in Resources */,
 				EE74573A1CFC31E0005AABB3 /* Assets.xcassets in Resources */,
 				EE7457381CFC31E0005AABB3 /* Main.storyboard in Resources */,
 			);
