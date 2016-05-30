@@ -70,7 +70,7 @@
 
 ```
 ###感谢关注
-<font color = #ffb200>有任何建议或想法请QQ:578545715,你的点赞是我前行最大动力~!</font>
+> <font color = #ffb200>有任何建议或想法请QQ:578545715,你的点赞是我前行最大动力~!</font>
 
 ###效果图
 ![image](https://github.com/LeeFengHY/LPCustomTableViewSectionIndexView/raw/master/images/1.jpg)
