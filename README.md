@@ -73,8 +73,7 @@
 ###效果图
 ![image](https://github.com/LeeFengHY/LPCustomTableViewSectionIndexView/raw/master/images/1.jpg)
 ![image](https://github.com/LeeFengHY/LPCustomTableViewSectionIndexView/raw/master/images/2.jpg)
-![image](https://github.com/LeeFengHY/LPCustomTableViewSectionIndexView/raw/master/images/3.jpg)
 ![image](https://github.com/LeeFengHY/LPCustomTableViewSectionIndexView/raw/master/images/4.jpg)
 ![image](https://github.com/LeeFengHY/LPCustomTableViewSectionIndexView/raw/master/images/5.jpg)
-![image](https://github.com/LeeFengHY/LPCustomTableViewSectionIndexView/raw/master/images/6.jpg)
+
 
