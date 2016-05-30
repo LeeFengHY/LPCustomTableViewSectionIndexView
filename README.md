@@ -70,7 +70,8 @@
 
 ```
 ###感谢关注
-<table><tr><td bgcolor=yellow>有任何建议或想法请QQ:578545715,你的点赞是我前行最大动力~!</td></tr></table>
+<font >有任何建议或想法请QQ:578545715,你的点赞是我前行最大动力~!</font>
+<font color=red size=72>color=red</font>
 
 ###效果图
 ![image](https://github.com/LeeFengHY/LPCustomTableViewSectionIndexView/raw/master/images/1.jpg)
